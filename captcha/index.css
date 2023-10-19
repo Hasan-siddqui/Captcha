@@ -1,0 +1,33 @@
+#image{
+    margin-top: 10px;
+    box-shadow: 2px 2px 2px  gray;
+    width: 75px;
+    font-weight: 400;
+    padding-bottom: 0px;
+    user-select: none;
+    font-style: italic;
+    font-size: x-large;
+    margin-left: 10px;
+    height: 35px;
+}
+     
+
+#user-input{
+    box-shadow: 2px 2px 2px  gray;
+        width: auto;
+        margin-right: 10px;
+        padding: 10px;
+        padding-bottom: 0px;
+        height: 30px;
+}
+
+.inline{
+    display:inline-block;
+}
+#btn{
+    box-shadow: 2px 2px 2px gray;
+    color: aqua;
+    margin: 10px;
+    background-color: brown;
+        height: 30px;
+}
